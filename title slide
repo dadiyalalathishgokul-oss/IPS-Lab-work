@@ -1,0 +1,19 @@
+\documentclass{beamer}
+
+\usetheme{Madrid}
+\usepackage{graphicx}
+
+\title{
+    \includegraphics[width=2cm]{jain_logo.png} \\[0.5cm]
+}
+\subtitle{title slide}
+\author{D. lathish gokul \\ App No: JUUG25BTECH11607}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+\end{document}
